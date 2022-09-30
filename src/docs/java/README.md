@@ -1,6 +1,6 @@
 ---
 title: Java小记
-icon: code
+icon: java
 category:
 - Java笔记
 tag:

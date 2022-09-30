@@ -1,4 +1,5 @@
 export const pagesRoutes = [
+  ["v-4bbfdb41","/11111.html",{"title":"主页","icon":"home"},["/11111","/11111.md"]],
   ["v-8daa1a0e","/",{"title":"主页","icon":"home"},["/index.html","/README.md"]],
   ["v-2e3eac9e","/slides.html",{"title":"幻灯片页","icon":"slides"},["/slides","/slides.md"]],
   ["v-0188b26d","/contents/disable.html",{"title":"布局与功能禁用","icon":"config"},["/contents/disable","/contents/disable.md"]],
@@ -10,10 +11,10 @@ export const pagesRoutes = [
   ["v-6870da79","/docs/design-pattren/",{"title":""},["/docs/design-pattren/index.html","/docs/design-pattren/README.md"]],
   ["v-67aa0d9c","/docs/java/",{"title":"Java小记","icon":"code"},["/docs/java/index.html","/docs/java/README.md"]],
   ["v-2fe617e4","/docs/vue/",{"title":"Vue小记","icon":"creative"},["/docs/vue/index.html","/docs/vue/README.md"]],
-  ["v-0b6fc5f8","/guide/foo/ray.html",{"title":"Ray","icon":"config"},["/guide/foo/ray","/guide/foo/ray.md"]],
-  ["v-5d5821d6","/guide/foo/",{"title":"Foo 功能","icon":"config"},["/guide/foo/index.html","/guide/foo/README.md"]],
   ["v-177e1f06","/guide/bar/baz.html",{"title":"Baz","icon":"info"},["/guide/bar/baz","/guide/bar/baz.md"]],
   ["v-5d5c2d30","/guide/bar/",{"title":"Bar 功能","icon":"creative"},["/guide/bar/index.html","/guide/bar/README.md"]],
+  ["v-0b6fc5f8","/guide/foo/ray.html",{"title":"Ray","icon":"config"},["/guide/foo/ray","/guide/foo/ray.md"]],
+  ["v-5d5821d6","/guide/foo/",{"title":"Foo 功能","icon":"config"},["/guide/foo/index.html","/guide/foo/README.md"]],
   ["v-2a9c9c65","/docs/java/collections/List2Map.html",{"title":"List转Map","icon":"workingDirectory"},["/docs/java/collections/List2Map","/docs/java/collections/List2Map.md"]],
   ["v-45994b6c","/docs/java/collections/",{"title":"Collections集合","icon":"workingDirectory"},["/docs/java/collections/index.html","/docs/java/collections/README.md"]],
   ["v-21eb6986","/docs/java/stream/",{"title":"Stream流","icon":"footnote"},["/docs/java/stream/index.html","/docs/java/stream/README.md"]],

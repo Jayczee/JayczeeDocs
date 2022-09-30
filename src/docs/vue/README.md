@@ -1,4 +1,4 @@
 ---
 title: Vue小记
-icon: creative
+icon: vue
 ---
