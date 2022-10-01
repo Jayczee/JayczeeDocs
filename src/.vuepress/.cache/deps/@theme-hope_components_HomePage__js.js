@@ -121,7 +121,7 @@ var HomeHero_default = defineComponent({
 });
 
 // node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.103/node_modules/vuepress-theme-hope/lib/client/components/HomePage.js
-import "C:/Users/Jayczee/Desktop/\u4EE3\u7801/JayczeeDocs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.103/node_modules/vuepress-theme-hope/lib/client/styles/home-page.scss";
+import "/home/jayczee/Desktop/Code/CodeDocs/JayczeeDocs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.103/node_modules/vuepress-theme-hope/lib/client/styles/home-page.scss";
 var HomePage_default = defineComponent({
   name: "HopePage",
   setup(_props, { slots }) {

@@ -1,5 +1,6 @@
 ---
 title: Java小记
+index: false
 icon: java
 category:
 - Java笔记

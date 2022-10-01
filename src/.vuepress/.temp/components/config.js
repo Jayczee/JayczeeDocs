@@ -1,9 +1,9 @@
-import { useStyleTag } from "C:/Users/Jayczee/Desktop/代码/JayczeeDocs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.103/node_modules/vuepress-plugin-components/lib/client/composables/index.js";
+import { useStyleTag } from "/home/jayczee/Desktop/Code/CodeDocs/JayczeeDocs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.103/node_modules/vuepress-plugin-components/lib/client/composables/index.js";
 import { h } from "vue";
 import { defineClientConfig } from "@vuepress/client";
-import Badge from "C:/Users/Jayczee/Desktop/代码/JayczeeDocs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.103/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import FontIcon from "C:/Users/Jayczee/Desktop/代码/JayczeeDocs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.103/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import BackToTop from "C:/Users/Jayczee/Desktop/代码/JayczeeDocs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.103/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
+import Badge from "/home/jayczee/Desktop/Code/CodeDocs/JayczeeDocs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.103/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import FontIcon from "/home/jayczee/Desktop/Code/CodeDocs/JayczeeDocs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.103/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import BackToTop from "/home/jayczee/Desktop/Code/CodeDocs/JayczeeDocs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.103/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
 
 export default defineClientConfig({
