@@ -52,4 +52,10 @@ deb https://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ bullseye main
 
 ## 更改语言
 1. 打开树莓派终端（或者SSH连接树莓派......Whatever）
-2. 
+2. 在终端中输入`sudo raspi-config` 进入如下界面,选择第五项`Localisation Options`
+![设置页面首页](./树莓派设置主页.png)
+3. 在下页面中选择第一项`Locale`
+![语言设置页2](./语言设置2.png)
+4. 随后在进入的页面中勾选`zh-CN(UTF8)`,其它`GB2312`,`GB18030`,`GBK`也可作为可选项。
+![语言设置页3](./语言设置3.png)
+5. 最后选择确定，在新的页面中选择系统默认语言`zh_CN(UTF-8)`，最后重启即可

@@ -5,19 +5,6 @@ export const zhSidebar = sidebar({
     "/": [
         "",
         {
-            icon: "discover",
-            text: "案例",
-            prefix: "contents/",
-            link: "contents/",
-            children: "structure",
-        },
-        {
-            text: "文档",
-            icon: "note",
-            prefix: "guide/",
-            children: "structure",
-        },
-        {
             text:'Java',
             icon: "java",
             prefix:"docs/java/",
@@ -32,6 +19,7 @@ export const zhSidebar = sidebar({
         {
             text:'设计模式',
             prefix:"docs/design-pattern/",
+            icon:"alias",
             children:"structure"
         },
         {

@@ -29,7 +29,7 @@ tag:
     - 两个 USB 3.0 和两个 USB 2.0 接口
     - 2 个 micro HDMI 输出口，支持同时驱动双显示器，支持4K/30FPS or 1080P/60FPS
     - 5V/3A Type-C 电源输入口
-关于Cortex芯片各版本区别，可[参阅此处](#https://www.jianshu.com/p/1f3836678fed)
+关于Cortex芯片各版本区别，可[参阅此处](https://www.jianshu.com/p/1f3836678fed)
 
 与前代相比，树莓派4B的可谓有了跃迁式的提升。
 
